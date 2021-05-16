@@ -1,3 +1,3 @@
 <?php
-header('Location: https://github.com/navy356/downloader2/blob/main/file.html');
+header('Location: https://raw.githubusercontent.com/navy356/downloader2/main/test.php');
 ?>
